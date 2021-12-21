@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Construction-Company-Website/static/css/main.aeea9978.chunk.css",
+    "main.js": "/Construction-Company-Website/static/js/main.d9bc45c7.chunk.js",
+    "main.js.map": "/Construction-Company-Website/static/js/main.d9bc45c7.chunk.js.map",
+    "runtime-main.js": "/Construction-Company-Website/static/js/runtime-main.09a684c3.js",
+    "runtime-main.js.map": "/Construction-Company-Website/static/js/runtime-main.09a684c3.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Construction-Company-Website/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.fb780171.chunk.js": "/Construction-Company-Website/static/js/2.fb780171.chunk.js",
+    "static/js/2.fb780171.chunk.js.map": "/Construction-Company-Website/static/js/2.fb780171.chunk.js.map",
+    "index.html": "/Construction-Company-Website/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Construction-Company-Website/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.aeea9978.chunk.css.map": "/Construction-Company-Website/static/css/main.aeea9978.chunk.css.map",
+    "static/js/2.fb780171.chunk.js.LICENSE.txt": "/Construction-Company-Website/static/js/2.fb780171.chunk.js.LICENSE.txt",
+    "static/media/light-logo.e3caef21.png": "/Construction-Company-Website/static/media/light-logo.e3caef21.png",
+    "static/media/pexels-marc-mueller-380769.f2d723a9.jpg": "/Construction-Company-Website/static/media/pexels-marc-mueller-380769.f2d723a9.jpg",
+    "static/media/pexels-photomix-company-224924.ca9d28cf.jpg": "/Construction-Company-Website/static/media/pexels-photomix-company-224924.ca9d28cf.jpg",
+    "static/media/pexels-pixabay-416405.18adf558.jpg": "/Construction-Company-Website/static/media/pexels-pixabay-416405.18adf558.jpg",
+    "static/media/pexels-pixabay-459728.26e9ba37.jpg": "/Construction-Company-Website/static/media/pexels-pixabay-459728.26e9ba37.jpg",
+    "static/media/pexels-rodnae-productions-7464703.dd2115d2.jpg": "/Construction-Company-Website/static/media/pexels-rodnae-productions-7464703.dd2115d2.jpg",
+    "static/media/pexels-rodnae-productions-8292785.ca9877fc.jpg": "/Construction-Company-Website/static/media/pexels-rodnae-productions-8292785.ca9877fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09a684c3.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.fb780171.chunk.js",
+    "static/css/main.aeea9978.chunk.css",
+    "static/js/main.d9bc45c7.chunk.js"
+  ]
+}
